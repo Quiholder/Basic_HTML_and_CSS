@@ -1,0 +1,10 @@
+P {
+    color: snow;
+	background: black; 
+	font- weight: bold;
+	text-align: center;
+}
+h2{
+  padding: 2 rem;
+  text-shadow: 10px 2px 40px red;
+}  
